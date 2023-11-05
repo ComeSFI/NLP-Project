@@ -1,0 +1,7 @@
+numpy
+pandas
+re
+nltk
+spacy
+string
+collections
