@@ -37,7 +37,13 @@ The model is trained on a dataset of movie reviews labeled with their correspond
 git clone https://github.com/ComeSFI/NLP-Project
 cd NLP-Project
 ```
-2. Run the notebooks
+
+2. Install the different python libraries
+```sh
+pip install -r requirements.txt
+```
+
+3. Run the notebooks
 
 ## Result
 

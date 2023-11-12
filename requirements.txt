@@ -1,7 +1,9 @@
-numpy
+plotly
 pandas
-re
+numpy
 nltk
+scikit-learn
+xgboost
+tensorflow
+transformers
 spacy
-string
-collections
