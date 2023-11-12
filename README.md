@@ -34,8 +34,8 @@ The model is trained on a dataset of movie reviews labeled with their correspond
 
 1. Clone the repository and go in the cloned directory
 ```sh
-git clone https://github.com/your-username/movie-sentiment-analysis.git
-cd movie-sentiment-analysis
+git clone https://github.com/ComeSFI/NLP-Project
+cd NLP-Project
 ```
 2. Run the notebooks
 
